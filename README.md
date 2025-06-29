@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**sahadat96/sahadat96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, my name is Sahadat Hossain 
 
-Here are some ideas to get you started:
+I am a passionate web developer with 1 year of experience in web development. I am a self-motivated, detail-oriented, and quick learner with a strong work ethic. My strengths include adaptability, teamwork, and problem-solving—particularly in configuration and networking environments. I thrive on challenges and am always eager to expand my skills with new technologies and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills 
+- **Languages**: &nbsp;         PHP, JavaScript, HTML5, CSS3
+- **Framework**: &nbsp;         Laravel, Vue.js
+- **Database**: &nbsp;          MySQL
+- **APIs**: &nbsp;              REST API
+- **Tools & Version Control**: &nbsp; Git, GitHub
+-  **Methodologies & Concepts**:  &nbsp; Object Oriented Programming (OOP), MVC Architecture
+
+
+### Education 
+- **[Diploma in Computer Science]** - Bangladesh Open University Nov 2024
+- **[Bachelor's Degree]** - National University August 2023
+
+
+
+
+More information in my [LinkedIn](https://www.linkedin.com/in/sahadatsoftdev) 🚀

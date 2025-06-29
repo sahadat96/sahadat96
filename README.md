@@ -14,8 +14,8 @@ I am a passionate web developer with 1 year of experience in web development. I 
 
 
 ### Education 
-- **[Diploma in Computer Science]** - Bangladesh Open University Nov 2024
-- **[Bachelor's Degree]** - National University August 2023
+- **Diploma in Computer Science** - Bangladesh Open University Nov 2024
+- **Bachelor's Degree** - National University August 2023
 
 
 

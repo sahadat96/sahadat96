@@ -1,7 +1,7 @@
 
  Hi, my name is Sahadat Hossain 
 
-I am a passionate web developer with 1 year of experience in web development. I am a self-motivated, detail-oriented, and quick learner with a strong work ethic. My strengths include adaptability, teamwork, and problem-solving—particularly in configuration and networking environments. I thrive on challenges and am always eager to expand my skills with new technologies and tools.
+I am a passionate web developer with 1 year of experience in web development. I am a self-motivated, detail-oriented, and quick learner with a strong work ethic. My strengths include adaptability, teamwork, and problem-solving particularly in configuration and networking environments. I thrive on challenges and am always eager to expand my skills with new technologies and tools.
 
 
 ### Skills 

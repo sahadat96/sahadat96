@@ -10,7 +10,7 @@ I transform ideas into functional, high-performance web applications using **PHP
 - **Languages**: &nbsp;         PHP, JavaScript, HTML5, CSS3
 - **Frameworks**: &nbsp;         Laravel, Vue.js
 - **Databases**: &nbsp;          MySQL
-- **Backend Architecture**: &nbsp;    MVC Pattern (Laravel), RESTful API Design, OOP (SOLID Principles)
+- **Backend Architecture**: &nbsp;    MVC Pattern, RESTful API Design, OOP (SOLID Principles)
 - **Version Control**: &nbsp; Git, GitHub
 
 

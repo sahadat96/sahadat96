@@ -1,16 +1,17 @@
 
- Hi, my name is Sahadat Hossain 
+Hi, my name is Sahadat Hossain 
 
-I am a passionate web developer with 1 year of experience in web development. I am a self-motivated, detail-oriented, and quick learner with a strong work ethic. My strengths include adaptability, teamwork, and problem-solving particularly in configuration and networking environments. I thrive on challenges and am always eager to expand my skills with new technologies and tools.
+Enthusiastic Web Developer | PHP & JavaScript Expert | Scalable Solution Architect
+
+I transform ideas into functional, high-performance web applications using PHP (Laravel), JavaScript (Vue.js), and clean, maintainable code. With expertise in RESTful APIs, MySQL, and MVC architecture, I build seamless systems that solve real-world problems.
 
 
-### Skills 
+### TECHNICAL SKILLS 
 - **Languages**: &nbsp;         PHP, JavaScript, HTML5, CSS3
 - **Framework**: &nbsp;         Laravel, Vue.js
 - **Database**: &nbsp;          MySQL
-- **APIs**: &nbsp;              REST API
-- **Tools & Version Control**: &nbsp; Git, GitHub
--  **Methodologies & Concepts**:  &nbsp; Object Oriented Programming (OOP), MVC Architecture
+- **Backend Architecture**: &nbsp;              MVC Pattern (Laravel), RESTful API Design, OOP (SOLID Principles)
+- **Version Control**: &nbsp; Git, GitHub
 
 
 ### Education 

@@ -1,24 +1,19 @@
+##  I'm **Sahadat Hossain**
 
-Hey there! I'm **Sahadat Hossain** 
+I am an enthusiastic Software Engineer focused on transforming ideas into functional, high-performance web applications. I specialize in building scalable backend systems using **Node.js (NestJS)** and **PHP (Laravel)**, with a strong emphasis on clean, maintainable code.
 
-**Enthusiastic Web Developer**
+With deep expertise in **RESTful APIs, OOP, modular architecture, and MVC**, I design and build scalable, robust systems that solve real-world problems.
 
-I transform ideas into functional, high-performance web applications using **PHP (Laravel), JavaScript (Vue.js)**, and clean, maintainable code. With expertise in **RESTful APIs, MySQL, and MVC architecture**, I build seamless systems that **solve real-world problems**.
+### TECHNICAL SKILLS
 
+- **Languages:** TypeScript, JavaScript, PHP  
+- **Frameworks & Runtimes:** Node.js, NestJS, Laravel  
+- **Databases:** PostgreSQL, MySQL  
+- **Architecture:** RESTful API Design, Modular Architecture, OOP, MVC  
+- **Version Control:** Git, GitHub  
 
-### TECHNICAL SKILLS 
-- **Languages**: &nbsp;         PHP, JavaScript, HTML5, CSS3
-- **Frameworks**: &nbsp;         Laravel, Vue.js
-- **Databases**: &nbsp;          MySQL
-- **Backend Architecture**: &nbsp;    MVC Pattern, RESTful API Design, OOP 
-- **Version Control**: &nbsp; Git, GitHub
+---
 
+### Connect with Me
 
-### Education 
-- **Diploma in Computer Science** - Bangladesh Open University Nov 2024
-- **Bachelor's Degree** - National University August 2023
-
-
-
-
-More information in my [LinkedIn](https://www.linkedin.com/in/sahadatsoftdev) 🚀
+- 🔗 LinkedIn: https://www.linkedin.com/in/sahadatsoftdev

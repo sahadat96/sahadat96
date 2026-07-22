@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm Sahadat Hossain<br>I am an enthusiastic Software Engineer focused on transforming ideas into functional, high-performance web applications. I specialize in building scalable backend systems using Node.js (NestJS) and PHP (Laravel), with a strong emphasis on clean, maintainable code.<br><br>With deep expertise in RESTful APIs, OOP, modular architecture, and MVC, I design and build scalable, robust systems that solve real-world problems.<br><br>TECHNICAL SKILLS<br>Languages: TypeScript, JavaScript, PHP<br>Frameworks & Runtimes: Node.js, NestJS, Laravel<br>Databases: PostgreSQL, MySQL<br>Architecture: RESTful API Design, Modular Architecture, OOP, MVC<br>Version Control: Git, GitHub<br><br>Connect with Me<br>🔗 LinkedIn: https://www.linkedin.com/in/sahadatsoftdev
 
 

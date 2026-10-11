@@ -1,5 +1,27 @@
 #  About Me:
-I'm Sahadat Hossain<br>I am an enthusiastic Software Engineer focused on transforming ideas into functional, high-performance web applications. I specialize in building scalable systems using Node.js, TypeScript, NestJS, PHP, Laravel, React, Next.js with a strong emphasis on clean, maintainable code.<br><br>With deep expertise in RESTful APIs, OOP, modular architecture, and MVC, I design and build scalable, robust systems that solve real-world problems.<br><br>TECHNICAL SKILLS<br>Languages: TypeScript, JavaScript, PHP<br>Frameworks & Runtimes: Node.js, NestJS, Laravel<br>Frontend: React, Next.js, HTML, CSS<br>Databases: PostgreSQL, MySQL<br>Caching & Queues: Redis<br>Architecture: RESTful API Design, Modular Architecture, OOP, MVC<br>Cloud: AWS S3<br>Containerization: Docker<br>Version Control: Git, GitHub<br><br>Connect with Me<br>🔗 LinkedIn: https://www.linkedin.com/in/sahadatsoftdev
+
+# Hi, I'm Sahadat Hossain 
+
+
+I am an enthusiastic **Software Engineer with 3+ years of experience**, focused on transforming ideas into functional, high-performance systems. I specialize in building **scalable applications** using **Java, Spring Boot, Node.js, TypeScript, NestJS, PHP, Laravel, React, and Next.js**, with a strong emphasis on **clean, maintainable code**.
+
+I have strong expertise in **Microservices, Modular Architecture, MVC, RESTful API Design, and OOP**.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, TypeScript, JavaScript, PHP
+- **Frameworks & Runtimes:** Spring Boot, Node.js, NestJS, Express.js, Laravel
+- **Frontend:** React, Next.js, HTML, CSS
+- **Databases & ORMs:** PostgreSQL, MySQL, Spring Data JPA (Hibernate), Flyway, Prisma
+- **Caching & Queues:** Redis, Background Job Processing
+- **Architecture & APIs:** Microservices, Modular Monolith, Layered Architecture, RESTful API Design, OOP, MVC
+- **Cloud & Storage:** AWS S3
+- **DevOps & Tools:** Docker, Git, GitHub
+
+## 🤝 Connect With Me
+
+🔗 **LinkedIn:** [linkedin.com/in/sahadatsoftdev](https://www.linkedin.com/in/sahadatsoftdev)
+
 
 
 ## 🌐 Socials:
